@@ -1,5 +1,9 @@
 # Library for MPS20N0040D with HX710B Pressure Sensor Module
 
-### by: R.Pelayo
+library for 24 bit ADC HX710 barometric pressure sensor 
 
-### Full tutorial: https://www.teachmemicro.com/arduino-pressure-sensor-tutorial
+
+
+ref: 
+    https://github.com/kurimawxx00/hx710B_pressure_sensor
+    https://github.com/bogde/HX711

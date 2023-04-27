@@ -1,0 +1,31 @@
+{
+    "name": "HX710 Pressure Sensor",
+    "version": "0.1.0",
+    "description": "library for pressure sensor module HX710B.",
+    "keywords": "barometer, sensor, HX710",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/josedelinux/hx710_pressure_sensor.git"
+    },
+    "authors":
+    [
+      {
+        "name": "Juan Chan",
+        "email": "josedelinux@hotmail.com",
+        "url": "",
+        "maintainer":true
+      },
+      {
+        "name": "R.Pelayo",
+        "email": "roland@teachmemicro.com",
+        "maintainer": false
+      }
+    ],
+    "license": "MIT",
+    "homepage": "https://github.com/josedelinux/hx710_pressure_sensor",
+    "dependencies": {
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+  }
